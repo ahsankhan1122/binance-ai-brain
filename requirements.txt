@@ -1,0 +1,7 @@
+python-binance
+pandas
+python-telegram-bot
+gspread
+oauth2client
+openai
+requests
